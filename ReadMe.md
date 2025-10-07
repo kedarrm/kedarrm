@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Proficient team player and collaborator.<br>👯 Highly efficient problem solver.<br>🤝Proven abilities of clear and creative thinking.<br>⚡ As a programmer, I’ve learned that bugs are just misunderstood features waiting to be fixed—and tea is basically part of my tech stack.
+🔭 Proficient team player and collaborator.<br>👯 Highly efficient problem solver.<br>🤝Proven abilities of clear and creative thinking.<br>⚡ As a programmer, I’ve learned that bugs are just misunderstood features waiting to be fixed—and tea is basically part of my tech stack.<br>💡 Passionate about building meaningful digital experiences that blend clean code with great design.
 
 
 ## 🌐 Socials:
