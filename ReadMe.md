@@ -45,35 +45,8 @@ I believe great products are built where **design thinking meets clean code**.
 
 ## ⚙ Backend Knowledge (For Better UX Systems)  
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,postgres,mysql" />
 </p>
-
----
-
-# 📌 Featured UX-Focused Projects  
-
-### 🚗 AI Car Marketplace  
-Designed user flow for:
-- Smart filtering
-- Test drive booking flow
-- Location-based car viewing
-- Clean product interaction UI  
-
-Focused on clarity, simplicity, and frictionless navigation.
-
----
-
-### 📊 Resume Parser (Final Year Major Project)  
-- Designed structured data visualization  
-- Improved readability and information hierarchy  
-- Focused on accessibility & usability  
-
----
-
-### 📋 Project Task Manager (React)  
-- Clean dashboard layout  
-- Minimal design system  
-- Smooth interaction patterns  
 
 ---
 
