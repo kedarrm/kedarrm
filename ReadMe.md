@@ -35,7 +35,7 @@ I believe great products are built where **design thinking meets clean code**.
 
 ## 🎨 Design Tools  
 <p>
-<img src="https://skillicons.dev/icons?i=figma,framer motion,canva" />
+<img src="https://skillicons.dev/icons?i=figma,canva" />
 </p>
 
 ## 💻 Frontend Development  
