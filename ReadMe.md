@@ -1,13 +1,122 @@
-# 💫 About Me:
-🔭Proficient team player and collaborator.<br>👯Highly efficient in problem solving.<br>🤝Proven abilities of clear and creative thinking.<br>⚡As a programmer, I’ve learned that bugs are just misunderstood features waiting to be fixed and tea is basically part of my tech stack.<br>💡Passionate about building meaningful digital experiences that blend clean code with great design.
+# 👋 Hi, I'm Kedar Mahamure  
 
+### 🎨 UI/UX Designer & Frontend Developer  
+Crafting intuitive, user-centered digital experiences with clean design and thoughtful interactions.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kedar-mahamure) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kedarmahamura12@gmail.com) 
+---
 
+## ✨ About Me  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+I design and build seamless digital experiences that combine **aesthetic clarity** with **functional precision**.
 
+As a UI/UX-focused developer, I care deeply about:
+- 🧠 User psychology & behavior
+- 🎯 Problem-driven design decisions
+- 🧩 Simplicity over clutter
+- ⚡ Smooth, responsive interfaces
+- 🔁 Iterative improvement through feedback
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I believe great products are built where **design thinking meets clean code**.
+
+---
+
+## 🧠 My Design Approach  
+
+1. 🔍 Research & Understand the User  
+2. 📝 Define Problems Clearly  
+3. 🧩 Wireframe & Prototype  
+4. 🎨 Design Clean, Accessible UI  
+5. 💻 Implement with Pixel Precision  
+6. 🔁 Test, Refine, Improve  
+
+---
+
+# 🛠 Design & Development Tools  
+
+## 🎨 Design Tools  
+<p>
+<img src="https://skillicons.dev/icons?i=figma,framer,canva" />
+</p>
+
+## 💻 Frontend Development  
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,vite" />
+</p>
+
+## ⚙ Backend Knowledge (For Better UX Systems)  
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,postgres,mysql" />
+</p>
+
+---
+
+# 📌 Featured UX-Focused Projects  
+
+### 🚗 AI Car Marketplace  
+Designed user flow for:
+- Smart filtering
+- Test drive booking flow
+- Location-based car viewing
+- Clean product interaction UI  
+
+Focused on clarity, simplicity, and frictionless navigation.
+
+---
+
+### 📊 Resume Parser (Final Year Major Project)  
+- Designed structured data visualization  
+- Improved readability and information hierarchy  
+- Focused on accessibility & usability  
+
+---
+
+### 📋 Project Task Manager (React)  
+- Clean dashboard layout  
+- Minimal design system  
+- Smooth interaction patterns  
+
+---
+
+# 💡 Core Skills  
+
+- Wireframing & Prototyping  
+- Design Systems  
+- Responsive Design  
+- Interaction Design  
+- Usability Heuristics  
+- Accessibility Principles  
+- User Flow Mapping  
+- Visual Hierarchy  
+- Component-Based UI Design  
+
+---
+
+# 🌐 Connect With Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kedar-mahamure">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kedarmahamura12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🎯 Currently Exploring  
+
+- Advanced Interaction Design  
+- Micro-interactions & Motion UI  
+- UX Research Methods  
+- Product Thinking  
+- Building scalable design systems  
+
+---
+
+# ✍️ Design Philosophy  
+
+> “Good design looks nice.  
+> Great design feels invisible.”
+
+---
