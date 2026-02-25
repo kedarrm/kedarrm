@@ -33,14 +33,10 @@ I believe great products are built where **design thinking meets clean code**.
 
 # 🛠 Design & Development Tools  
 
-## 🎨 Design Tools  
-<p>
-<img src="https://skillicons.dev/icons?i=figma,canva" />
-</p>
 
 ## 💻 Frontend Development  
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,vite,figma" />
 </p>
 
 ## ⚙ Backend Knowledge (For Better UX Systems)  
